@@ -9,7 +9,7 @@ on:
       solution_name:
         description: 'name of the solution to worked on from Power Platform'
         required: true
-        default: ALMLab
+        default: CICD_Solution
        #Do Not change these values
       solution_exported_folder:
         description: 'folder name for staging the exported solution *do not change*'
@@ -27,7 +27,7 @@ env:
 #edit your values here
   ENVIRONMENT_URL: 'https://org96252a85.crm12.dynamics.com'
   CLIENT_ID: '15e7f8c3-bc7d-48b8-a58b-bf83cad816cb'
-  TENANT_ID: 'bcb868fb-a012-4982-8786-3b1b85040a42'
+  TENANT_ID: 'd3269123-1624-40fc-bee0-1f793e000b3f'
 permissions:
   contents: write
 jobs:
