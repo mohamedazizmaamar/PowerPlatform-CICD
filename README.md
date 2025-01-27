@@ -1,1 +1,1 @@
-# PracticeCE-CI-CD
+# PowerPlatform-CICD
